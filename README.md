@@ -1,6 +1,6 @@
 # Tic tac toe game 
 
-A simple tic tac toe game using javascript.
+uA simple tic tac toe game using javascript.
 
 ## Game elements
 
